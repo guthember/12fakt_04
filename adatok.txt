@@ -1,0 +1,5 @@
+﻿Törpapa;120
+Törpilla;50
+Törpicur;12
+Jajgatörp;98
+Törperős;60
